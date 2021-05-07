@@ -1,0 +1,48 @@
+@import "../assets/css/soft-design-system.min.css";
+
+@import "../assets/css/nucleo-icons.css";
+
+a {
+  cursor: pointer;
+}
+
+.status-green {
+  width: 30px;
+  height: 8px;
+  border-radius: 10px;
+  background: #23d2ac;
+  margin-bottom: 1px;
+}
+.status-blue {
+  width: 30px;
+  height: 8px;
+  border-radius: 10px;
+  background: #33adff;
+  margin-bottom: 1px;
+}
+.status-red {
+  width: 30px;
+  height: 8px;
+  border-radius: 10px;
+  background: red;
+  margin-bottom: 1px;
+}
+
+.cdk-drag-preview {
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2),
+    0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+
+.cdk-drag-placeholder {
+  opacity: 0;
+}
+
+.cdk-drag-animating {
+  transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.col-sm.cdk-drop-list-dragging .card:not(.cdk-drag-placeholder) {
+  transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
+}
