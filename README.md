@@ -1,6 +1,8 @@
 # KanBanFy - Your NewTab
 
-A FREE personal KanBan Board on your every new tab. Add, Drag, Drop Tasks and get work done.
+A FREE personal KanBan Board on your every Chrome new tab. Add, Drag, Drop Tasks and get work done.
+
+![Chrome Extension Demo](https://raw.githubusercontent.com/Udaygajavalli/KanBanFy---Your-New-Tab/master/ice_video_20210507-162341.gif)
 
 ## Development server
 
