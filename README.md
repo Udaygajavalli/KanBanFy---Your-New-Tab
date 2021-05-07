@@ -1,6 +1,6 @@
-# KanbanifyYournewtab
+# KanBanFy - Your NewTab
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
+A FREE personal KanBan Board on your every new tab. Add, Drag, Drop Tasks and get work done.
 
 ## Development server
 
