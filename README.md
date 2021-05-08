@@ -2,7 +2,7 @@
 
 A FREE personal KanBan Board on your every Chrome new tab. Add, Drag, Drop Tasks and get work done.
 
-![Link to the Chrome Extension](https://chrome.google.com/webstore/detail/kanbanfy-your-newtab/apjgpkebkfoepbfkjmneoogpdlpnmfkp/)
+[Link to the Chrome Extension](https://chrome.google.com/webstore/detail/kanbanfy-your-newtab/apjgpkebkfoepbfkjmneoogpdlpnmfkp/)
 
 ![Chrome Extension Demo](https://raw.githubusercontent.com/Udaygajavalli/KanBanFy---Your-New-Tab/master/video%20to%20gif.gif)
 
